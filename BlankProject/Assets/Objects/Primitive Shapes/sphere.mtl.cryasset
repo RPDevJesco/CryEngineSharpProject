@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Material" guid="edec1849-aaed-9a32-258a-e6ca990efa4f">
+ <Files>
+  <File path="sphere.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">0</Detail>
+ </Details>
+</AssetMetadata>

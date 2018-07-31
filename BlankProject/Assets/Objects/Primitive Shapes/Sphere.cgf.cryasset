@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="188f6631-4c5c-f88d-c6eb-81b87c587005" source="Sphere.fbx">
+ <Files>
+  <File path="Sphere.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">2</Detail>
+  <Detail name="triangleCount">960</Detail>
+  <Detail name="vertexCount">2052</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./Sphere.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

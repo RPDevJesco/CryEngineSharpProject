@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Material" guid="b02c96fe-f694-6a17-7586-f4536350746e">
+ <Files>
+  <File path="torus.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">0</Detail>
+ </Details>
+</AssetMetadata>

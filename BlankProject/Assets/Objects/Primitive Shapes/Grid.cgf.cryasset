@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="cead30d1-b376-dfd2-da20-8565bfb04708" source="Grid.fbx">
+ <Files>
+  <File path="Grid.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">2</Detail>
+  <Detail name="triangleCount">162</Detail>
+  <Detail name="vertexCount">100</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./Grid.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

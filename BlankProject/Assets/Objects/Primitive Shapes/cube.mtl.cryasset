@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Material" guid="715c9ed9-9e42-0d10-f6e4-714062f4632e">
+ <Files>
+  <File path="cube.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">0</Detail>
+ </Details>
+</AssetMetadata>

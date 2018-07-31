@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Material" guid="c8e01ecc-83a2-2edc-51b3-3be2e7eb15bc">
+ <Files>
+  <File path="cone.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">0</Detail>
+ </Details>
+</AssetMetadata>

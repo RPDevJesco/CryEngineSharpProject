@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="491fb366-ac25-256e-0c75-807b6a084885" source="Torus.fbx">
+ <Files>
+  <File path="Torus.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">2</Detail>
+  <Detail name="triangleCount">1152</Detail>
+  <Detail name="vertexCount">2304</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./Torus.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

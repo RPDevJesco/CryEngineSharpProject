@@ -1,0 +1,35 @@
+<AssetMetadata version="0" type="Level" guid="42065611-eea4-4f77-ed97-9c11282657e8" source="">
+ <Files>
+  <File path="level01/level01.level"/>
+ </Files>
+ <Dependencies>
+  <Path>%editor%/crydesigner_timeofday.xml</Path>
+  <Path>%editor%/default_time_of_day.xml</Path>
+  <Path>%editor%/leveltemplates.xml</Path>
+  <Path>%editor%/mapscreenshotsettings.xml</Path>
+  <Path>%editor%/mbttemplates.xml</Path>
+  <Path>%editor%/modellingpanel.xml</Path>
+  <Path>%editor%/objecttemplates.xml</Path>
+  <Path>%editor%/propertyenumerations.xml</Path>
+  <Path>%editor%/soundtemplates.xml</Path>
+  <Path>%editor%/toolbox.xml</Path>
+  <Path>%editor%/usertools.xml</Path>
+  <Path>%engine%/config/defaultscripts/compressionpolicy.xml</Path>
+  <Path>%engine%/engineassets/icons/averagememoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/highmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/livepreview.dds</Path>
+  <Path>%engine%/engineassets/icons/lowmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/textures/grey.dds</Path>
+  <Path>d:/dev_projects/repos/cesharppractice/blankproject/assets/level/level01/filelist.xml</Path>
+  <Path>d:/dev_projects/repos/cesharppractice/blankproject/assets/level/level01/leveldata/environment.xml</Path>
+  <Path>d:/dev_projects/repos/cesharppractice/blankproject/assets/level/level01/leveldata/gametokens.xml</Path>
+  <Path>d:/dev_projects/repos/cesharppractice/blankproject/assets/level/level01/leveldata/objectives.xml</Path>
+  <Path>d:/dev_projects/repos/cesharppractice/blankproject/assets/level/level01/leveldata/terraintexture.xml</Path>
+  <Path>d:/dev_projects/repos/cesharppractice/blankproject/assets/level/level01/leveldata/timeofday.xml</Path>
+  <Path>d:/dev_projects/repos/cesharppractice/blankproject/assets/libs/environmentpresets/level/level01.xml</Path>
+  <Path>objects/primitive shapes/cube.cgf</Path>
+  <Path>objects/primitive shapes/cube.mtl</Path>
+  <Path>objects/primitive shapes/grid.cgf</Path>
+  <Path>objects/primitive shapes/grid.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

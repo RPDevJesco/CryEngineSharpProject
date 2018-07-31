@@ -1,0 +1,6 @@
+D:\Dev_Projects\Repos\cesharppractice\BlankProject\bin\CRYENGINE.CSharp.dll
+D:\Dev_Projects\Repos\cesharppractice\BlankProject\bin\CRYENGINE.CSharp.pdb
+D:\Dev_Projects\Repos\cesharppractice\BlankProject\obj\Debug\Sandbox.Game.csprojAssemblyReference.cache
+D:\Dev_Projects\Repos\cesharppractice\BlankProject\obj\Debug\Sandbox.Game.csproj.CoreCompileInputs.cache
+D:\Dev_Projects\Repos\cesharppractice\BlankProject\obj\Debug\CRYENGINE.CSharp.dll
+D:\Dev_Projects\Repos\cesharppractice\BlankProject\obj\Debug\CRYENGINE.CSharp.pdb
